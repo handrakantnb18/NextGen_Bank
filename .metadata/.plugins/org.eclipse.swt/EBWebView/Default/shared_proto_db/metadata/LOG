@@ -1,2 +1,3 @@
-2026/08/22-13:53:38.164 1ad0 Creating DB D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db\metadata since it was missing.
-2026/08/22-13:53:38.172 1ad0 Reusing MANIFEST D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/08/22-14:15:46.369 72d0 Reusing MANIFEST D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/08/22-14:15:46.370 72d0 Recovering log #3
+2026/08/22-14:15:46.371 72d0 Reusing old log D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db\metadata/000003.log 

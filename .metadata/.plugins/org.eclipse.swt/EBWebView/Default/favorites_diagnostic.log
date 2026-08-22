@@ -7,3 +7,22 @@
 2026-08-22 08:23:38.162: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-08-22 08:23:38.162: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-08-22 08:23:41.640: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-22 08:37:29.527: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-22 08:37:29.527: [INFO] Profiles total count: 1
+2026-08-22 08:37:29.527: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-22 08:37:29.527: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-22 08:37:29.527: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-22 08:37:29.527: [INFO] OnDoneLoading sync enabled: 0
+2026-08-22 08:37:29.527: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-22 08:37:29.527: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-22 08:37:29.527: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-22 08:45:20.877: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-22 08:45:46.364: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-22 08:45:46.364: [INFO] Profiles total count: 1
+2026-08-22 08:45:46.365: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-22 08:45:46.365: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-22 08:45:46.365: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-22 08:45:46.365: [INFO] OnDoneLoading sync enabled: 0
+2026-08-22 08:45:46.365: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-22 08:45:46.365: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-22 08:45:46.365: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
