@@ -166,3 +166,313 @@
 2026-08-22 08:58:10.857: [INFO] BookmarkModelLoaded, ids_reassigned: 0
 2026-08-22 08:58:10.857: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-08-22 08:58:10.857: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-22 17:24:05.819: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:46:30.237: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:46:30.237: [INFO] Profiles total count: 1
+2026-08-23 10:46:30.237: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:46:30.237: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:46:30.238: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:46:30.238: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:46:30.238: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:46:30.238: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:46:30.238: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:46:32.656: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:47:38.789: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:47:38.789: [INFO] Profiles total count: 1
+2026-08-23 10:47:38.789: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:47:38.789: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:47:38.790: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:47:38.790: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:47:38.790: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:47:38.790: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:47:38.790: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:47:38.927: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:48:23.908: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:48:23.908: [INFO] Profiles total count: 1
+2026-08-23 10:48:23.909: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:48:23.909: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:48:23.909: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:48:23.909: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:48:23.909: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:48:23.909: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:48:23.909: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:48:24.084: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:48:59.654: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:48:59.654: [INFO] Profiles total count: 1
+2026-08-23 10:48:59.655: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:48:59.655: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:48:59.655: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:48:59.655: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:48:59.655: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:48:59.655: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:48:59.655: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:48:59.800: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:49:22.050: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:49:22.050: [INFO] Profiles total count: 1
+2026-08-23 10:49:22.050: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:49:22.051: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:49:22.051: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:49:22.051: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:49:22.051: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:49:22.051: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:49:22.051: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:49:22.210: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:49:32.351: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:49:32.351: [INFO] Profiles total count: 1
+2026-08-23 10:49:32.351: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:49:32.351: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:49:32.351: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:49:32.351: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:49:32.351: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:49:32.351: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:49:32.351: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:49:32.521: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:49:50.329: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:49:50.329: [INFO] Profiles total count: 1
+2026-08-23 10:49:50.329: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:49:50.329: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:49:50.329: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:49:50.329: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:49:50.329: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:49:50.329: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:49:50.329: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:49:50.484: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:50:04.911: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:50:04.911: [INFO] Profiles total count: 1
+2026-08-23 10:50:04.912: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:50:04.912: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:50:04.912: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:50:04.912: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:50:04.912: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:50:04.912: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:50:04.912: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:50:09.403: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:50:37.667: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:50:37.667: [INFO] Profiles total count: 1
+2026-08-23 10:50:37.668: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:50:37.668: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:50:37.668: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:50:37.668: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:50:37.668: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:50:37.668: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:50:37.668: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:50:37.813: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:50:40.396: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:50:40.396: [INFO] Profiles total count: 1
+2026-08-23 10:50:40.397: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:50:40.397: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:50:40.397: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:50:40.397: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:50:40.397: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:50:40.397: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:50:40.397: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:50:40.537: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:50:59.831: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:50:59.831: [INFO] Profiles total count: 1
+2026-08-23 10:50:59.832: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:50:59.832: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:50:59.832: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:50:59.832: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:50:59.832: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:50:59.832: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:50:59.832: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:50:59.974: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:51:37.783: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:51:37.783: [INFO] Profiles total count: 1
+2026-08-23 10:51:37.784: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:51:37.784: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:51:37.784: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:51:37.784: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:51:37.784: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:51:37.784: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:51:37.784: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:51:37.930: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:52:27.948: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:52:27.948: [INFO] Profiles total count: 1
+2026-08-23 10:52:27.948: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:52:27.948: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:52:27.948: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:52:27.948: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:52:27.948: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:52:27.948: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:52:27.948: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:52:28.087: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:52:36.118: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:52:36.118: [INFO] Profiles total count: 1
+2026-08-23 10:52:36.119: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:52:36.119: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:52:36.119: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:52:36.119: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:52:36.119: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:52:36.119: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:52:36.119: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:52:36.265: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:53:14.627: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:53:14.628: [INFO] Profiles total count: 1
+2026-08-23 10:53:14.628: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:53:14.628: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:53:14.628: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:53:14.628: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:53:14.628: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:53:14.628: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:53:14.628: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:53:14.775: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:54:16.007: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:54:16.007: [INFO] Profiles total count: 1
+2026-08-23 10:54:16.007: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:54:16.007: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:54:16.007: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:54:16.007: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:54:16.007: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:54:16.007: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:54:16.007: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:54:16.155: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:54:55.722: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:54:55.722: [INFO] Profiles total count: 1
+2026-08-23 10:54:55.722: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:54:55.722: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:54:55.722: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:54:55.722: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:54:55.722: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:54:55.722: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:54:55.722: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:54:55.856: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:54:59.279: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:54:59.279: [INFO] Profiles total count: 1
+2026-08-23 10:54:59.279: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:54:59.279: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:54:59.279: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:54:59.279: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:54:59.279: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:54:59.279: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:54:59.279: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:54:59.507: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:55:26.145: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:55:26.145: [INFO] Profiles total count: 1
+2026-08-23 10:55:26.146: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:55:26.146: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:55:26.146: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:55:26.146: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:55:26.146: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:55:26.146: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:55:26.146: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:55:31.517: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:57:03.069: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:57:03.069: [INFO] Profiles total count: 1
+2026-08-23 10:57:03.070: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:57:03.070: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:57:03.070: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:57:03.070: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:57:03.070: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:57:03.070: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:57:03.070: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:57:03.203: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:57:06.130: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:57:06.130: [INFO] Profiles total count: 1
+2026-08-23 10:57:06.131: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:57:06.131: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:57:06.131: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:57:06.131: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:57:06.131: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:57:06.131: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:57:06.131: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:57:06.253: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:57:49.656: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:57:49.656: [INFO] Profiles total count: 1
+2026-08-23 10:57:49.657: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:57:49.657: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:57:49.657: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:57:49.657: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:57:49.657: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:57:49.657: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:57:49.657: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:57:53.419: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:58:04.173: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:58:04.173: [INFO] Profiles total count: 1
+2026-08-23 10:58:04.173: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:58:04.173: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:58:04.173: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:58:04.173: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:58:04.173: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:58:04.173: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:58:04.173: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:58:13.752: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:58:30.236: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:58:30.236: [INFO] Profiles total count: 1
+2026-08-23 10:58:30.237: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:58:30.237: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:58:30.237: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:58:30.237: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:58:30.237: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:58:30.237: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:58:30.237: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:58:30.400: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:59:11.712: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:59:11.712: [INFO] Profiles total count: 1
+2026-08-23 10:59:11.713: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:59:11.713: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 10:59:11.713: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 10:59:11.713: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 10:59:11.713: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 10:59:11.713: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 10:59:11.713: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 10:59:11.844: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 11:01:22.918: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 11:01:22.918: [INFO] Profiles total count: 1
+2026-08-23 11:01:22.918: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 11:01:22.918: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 11:01:22.918: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 11:01:22.918: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 11:01:22.918: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 11:01:22.918: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 11:01:22.918: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 11:01:23.065: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 11:06:55.326: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 11:06:55.326: [INFO] Profiles total count: 1
+2026-08-23 11:06:55.326: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 11:06:55.326: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 11:06:55.326: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 11:06:55.326: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 11:06:55.326: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 11:06:55.326: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 11:06:55.326: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 11:07:05.989: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 11:09:00.138: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 11:09:00.138: [INFO] Profiles total count: 1
+2026-08-23 11:09:00.138: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 11:09:00.138: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 11:09:00.138: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 11:09:00.138: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 11:09:00.138: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 11:09:00.138: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 11:09:00.138: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 11:09:00.269: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 11:09:13.178: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 11:09:13.178: [INFO] Profiles total count: 1
+2026-08-23 11:09:13.178: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 11:09:13.178: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 11:09:13.178: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 11:09:13.178: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 11:09:13.178: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 11:09:13.178: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 11:09:13.178: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 11:09:13.329: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 11:10:52.852: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 11:10:52.852: [INFO] Profiles total count: 1
+2026-08-23 11:10:52.852: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 11:10:52.852: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 11:10:52.852: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 11:10:52.852: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 11:10:52.852: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 11:10:52.852: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 11:10:52.852: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 11:10:52.996: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 11:13:08.771: [INFO] CurrentProfilePath: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 11:13:08.771: [INFO] Profiles total count: 1
+2026-08-23 11:13:08.772: [INFO] Profile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 11:13:08.772: [INFO] LastUsedProfileDir: D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 11:13:08.772: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Veracity\GlobalTrust-Bank\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-22T08:23:38.943Z
+2026-08-23 11:13:08.772: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 11:13:08.772: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 11:13:08.772: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 11:13:08.772: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
