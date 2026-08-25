@@ -12,7 +12,6 @@ import com.shivdattTrust.bank.dto.LoginRequest;
 import com.shivdattTrust.bank.dto.RegisterRequest;
 import com.shivdattTrust.bank.service.AuthService;
 
-import ch.qos.logback.core.net.LoginAuthenticator;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 
