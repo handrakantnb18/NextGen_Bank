@@ -38,30 +38,32 @@ public class SecurityConfig {
 
 	};
 
-	@Bean
-	public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
-		http.csrf(csrf -> csrf.disable()).cors(cors -> cors.configurationSource(corsConfigurationSource()))
-				.sessionManagement(session -> session.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
-				.authorizeHttpRequests(auth -> auth.requestMatchers(PUBLIC_ENDPOINTS).permitAll()
-						.requestMatchers("/api/admin/**").hasRole("ADMIN").anyRequest().authenticated())
-				.authenticationProvider(authenticationProvider())
-				.addFilterBefore(jwtAuthenticationFilter, UsernamePasswordAuthenticationFilter.class);
+//	@Bean
+//	public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
+//		http.csrf(csrf -> csrf.disable()).cors(cors -> cors.configurationSource(corsConfigurationSource()))
+//				.sessionManagement(session -> session.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
+//				.authorizeHttpRequests(auth -> auth.requestMatchers(PUBLIC_ENDPOINTS).permitAll()
+//						.requestMatchers("/api/admin/**").hasRole("ADMIN").anyRequest().authenticated())
+//				.authenticationProvider(authenticationProvider())
+//				.addFilterBefore(jwtAuthenticationFilter, UsernamePasswordAuthenticationFilter.class);
+//
+//		return http.build();
+//	}
+//
+//	@Bean
+//	public DaoAuthenticationProvider authenticationProvider() {
+//
+//	    DaoAuthenticationProvider provider =
+//	            new DaoAuthenticationProvider();
+//
+//	    provider.setUserDetailsService(userDetailsService);
+//	    provider.setPasswordEncoder(passwordEncoder());
+//
+//	    return provider;
+//	}
 
-		return http.build();
-	}
-
-	@Bean
-	public DaoAuthenticationProvider authenticationProvider() {
-
-	    DaoAuthenticationProvider provider =
-	            new DaoAuthenticationProvider();
-
-	    provider.setUserDetailsService(userDetailsService);
-	    provider.setPasswordEncoder(passwordEncoder());
-
-	    return provider;
-	}
-
+	
+	
 	@Bean
 	public AuthenticationManager authenticationManager(AuthenticationConfiguration config) throws Exception {
 		return config.getAuthenticationManager();
